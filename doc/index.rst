@@ -27,3 +27,4 @@ system can be set up in few hours.
 
    installation.rst
    configuration.rst
+   another-feature.md
