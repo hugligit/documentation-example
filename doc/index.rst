@@ -1,6 +1,8 @@
 Installing Debian Linux on Home Computers
 =========================================
 
+Marcel
+
 When the installation process involves searching for information in
 various places and scrambling resources from half forgotten locations then
 the whole process becomes rather painful.  The installation requires
@@ -22,9 +24,10 @@ and the rest should depend only on computer speed, the internet connection
 speed and the reliability of the repositories. With a bit of luck a new
 system can be set up in few hours.
 
+
 .. toctree::
    :maxdepth: 2
+   :caption: Contents:
 
    installation.rst
    configuration.rst
-   another-feature.md
